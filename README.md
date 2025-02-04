@@ -1,2 +1,2 @@
 # Pharmaceutical_Drugs_Review
-Worked on Pharmaceutical Drugs Data performing EDA, Preprocessing data and using SKLearn building Classification model driving insights and getting to know about the drugs and their usage, side effects, effectiveness, top drugs for depression, anxiety, acne. 
+This project focuses on analyzing pharmaceutical drug reviews and clinical data to uncover patterns in drug effectiveness, side effects, and patient experiences. Leveraging Python and machine learning, the goal was to identify top-performing drugs for conditions like depression, anxiety, and acne, while building a classification model to predict drug effectiveness based on patient feedback.
